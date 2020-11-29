@@ -1,4 +1,4 @@
-# HealVanaMobileApplication
+# Heal Vana Mobile Application
 
 HealVana features a daily tracker of your physical, emotional and social status. It also serves as a tool for tele medication, wherein the app connects the user to a medical practitioner which can help with their queries. Users have the chance to converse with the doctor the app connected them with and have an online consultation. Other than that, this app can also be used to arrange face to face consultation and appointments should there be a need for it.
 

@@ -7,19 +7,19 @@ The app will have a free and a premium account mechanic for access of features. 
 The app will also have a daily news section wherein it updates the user about health-related news that’s happening around the world. It will also be available for both iOS and Android, maximizing its usability to different users. The app is technically free to download and use, but as mentioned before, the premium subscription grants additional features, and it only costs P100 per month.
 
 # How to Install Heal Vana Mobile Application
-1.Download "HealVanaApp.zip" from HealVanaMobileApplication repository in github.
+1. Download "HealVanaApp.zip" from HealVanaMobileApplication repository in github.
 
-2.Once downloaded, extract the files in a desired folder.
+2. Once downloaded, extract the files in a desired folder.
 
-3.If you haven't downloaded VS code, flutter and Android Studio, check out this website https://flutter.dev/docs/get-started/install.
+3. If you haven't downloaded VS code, flutter and Android Studio, check out this website https://flutter.dev/docs/get-started/install.
 
-4.Simply drag extracted files from the zip file to your workspace in Visual Studio Code after finishing steps 2 and 3.
+4. Simply drag extracted files from the zip file to your workspace in Visual Studio Code after finishing steps 2 and 3.
 
-5.Open Android Studio and choose an emulator, we encourage you to use an android emulator resolution of 1080x1920 to maximize the use of our application.
+5. Open Android Studio and choose an emulator, we encourage you to use an android emulator resolution of 1080x1920 to maximize the use of our application.
 
-6.Open a new terminal in VS code and type in "flutter run" to build and simulate the program.
+6. Open a new terminal in VS code and type in "flutter run" to build and simulate the program.
 
-7.It might load for a couple of minutes but enjoy going through the application once it finishes.
+7. It might load for a couple of minutes but enjoy going through the application once it finishes.
 
 
 # Heal Vana Mobile Application Developers - Java Man Team
